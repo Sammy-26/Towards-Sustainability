@@ -202,7 +202,7 @@ header{
 
 /* Hero Section */
 .hero {
-  background: url('Image/Food1.jpg') center/cover no-repeat;
+  background: url('Food1.jpg') center/cover no-repeat;
   height: 400px;
   display: flex;
   justify-content: center;
@@ -225,7 +225,7 @@ header{
   overflow: hidden;
 }
 .hero3{
-  background: url('Image/Plastic2.jpg') center/cover no-repeat;
+  background: url('Plastic2.jpg') center/cover no-repeat;
   height: 450px;
   display: flex;
   justify-content: center;
@@ -470,7 +470,7 @@ header{
   color: #2c1901;
 }
 .img-box{
-  background-image: url(Image/Market.jpg);
+  background-image: url(Market.jpg);
   width: 100%;
   height: 200px;
   background-repeat: no-repeat;
@@ -480,7 +480,7 @@ header{
   position: relative;
 }
 .img-box1{
-  background-image: url(Image/Pagodas.jpg);
+  background-image: url(Pagodas.jpg);
   width: 100%;
   height: 200px;
   background-repeat: no-repeat;
@@ -490,7 +490,7 @@ header{
   position: relative;
 }
 .img-box2{
-  background-image: url(Image/Streets.jpg);
+  background-image: url(Streets.jpg);
   width: 100%;
   height: 200px;
   background-repeat: no-repeat;
@@ -500,7 +500,7 @@ header{
   position: relative;
 }
 .img-box3{
-  background-image: url(Image/HOSPITAL3.png);
+  background-image: url(HOSPITAL3.png);
   width: 100%;
   height: 200px;
   background-repeat: no-repeat;
@@ -510,7 +510,7 @@ header{
   position: relative;
 }
 .img-box4{
-  background-image: url(Image/River\ Waste.png);
+  background-image: url(River\ Waste.png);
   width: 100%;
   height: 200px;
   background-repeat: no-repeat;
@@ -520,7 +520,7 @@ header{
   position: relative;
 }
 .img-box5{
-  background-image: url(Image/Conner.png);
+  background-image: url(Conner.png);
   width: 100%;
   height: 200px;
   background-repeat: no-repeat;
@@ -819,7 +819,7 @@ button{
 
 /* Food Waste 1 */
 .food{
-  background: url('Image/HOME3.png');
+  background: url('HOME3.png');
   background-repeat: no-repeat;
   background-size: contain;
   background-size: cover;
